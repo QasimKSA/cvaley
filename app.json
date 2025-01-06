@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Development",
-    "slug": "Development",
+    "name": "Cvaley",
+    "slug": "Cvaley",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "com.salla.moka1",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
